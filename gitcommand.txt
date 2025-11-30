@@ -1,1 +1,2 @@
-new sample git repo progress
+new sample git repo progress and 
+new feature code are included in this file
